@@ -85,9 +85,6 @@ p {
 
 
 /* services style begin */
-.services {
-    width: 75%;
-}
 .service-content {
     width: 75%;
     display: inline-block;
@@ -119,7 +116,7 @@ p {
     
 }
 
-.benefits h3 {
+.benefit-info h3 {
     margin-bottom: 10px;
     text-align: center;
 }
