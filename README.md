@@ -11,4 +11,4 @@ This was a refactor completed for Horiseon. The code was updated to flow in logi
 ![Horiseon Footer](https://github.com/thecatwest/horiseon/blob/a914a2cc37a8fcf3e67d749629ad5bbb6706c6de/assets/images/horiseon-footer.png)
 
 ## Link to application
-* [Horiseon](thecatwest.github.io/horiseon)
+* [Horiseon](https://thecatwest.github.io/horiseon/)
